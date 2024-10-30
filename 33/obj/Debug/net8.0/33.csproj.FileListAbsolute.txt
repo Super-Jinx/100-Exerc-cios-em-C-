@@ -1,0 +1,14 @@
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\bin\Debug\net8.0\33.exe
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\bin\Debug\net8.0\33.deps.json
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\bin\Debug\net8.0\33.runtimeconfig.json
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\bin\Debug\net8.0\33.dll
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\bin\Debug\net8.0\33.pdb
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\33.AssemblyInfoInputs.cache
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\33.AssemblyInfo.cs
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\33.csproj.CoreCompileInputs.cache
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\33.dll
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\refint\33.dll
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\33.pdb
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\33.genruntimeconfig.cache
+C:\Users\Superman\Documents\Lois Dev\Exercicios\33\obj\Debug\net8.0\ref\33.dll
