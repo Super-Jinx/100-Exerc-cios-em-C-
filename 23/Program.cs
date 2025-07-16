@@ -17,28 +17,18 @@ Console.Write("Qual foi o valor da sua compra?");
 
 double valorCompra = double.Parse(Console.ReadLine());
 
-// if (sexoCliente == 1)
-// {
-
-//     double desconto = valorCompra * 5 / 100;
-//     double valorFinal = valorCompra - desconto;
-
-//     Console.WriteLine($"Com o desconto de 5%, seu produto custará apenas: {valorFinal:C}!");
-// }
-// else
-// {
-//     double desconto = valorCompra * 13 / 100;
-//     double valorFinal = valorCompra - desconto;
-
-//     Console.WriteLine($"Com o desconto de 13%, seu produto custará apenas: {valorFinal:C}!");
-// }
-
-int taxaDesconto = 13;
-
 if (sexoCliente == 1)
-    taxaDesconto = 5;
+{
 
-double desconto = valorCompra * taxaDesconto / 100;
-double valorFinal = valorCompra - taxaDesconto;
+    double desconto = valorCompra * 5 / 100;
+    double valorFinal = valorCompra - desconto;
 
-Console.WriteLine($"Com o desconto de {taxaDesconto}%, seu produto custará apenas: {valorFinal:C}!");
+    Console.WriteLine($"Com o desconto de 5%, seu produto custará apenas: {valorFinal:C}!");
+}
+else
+{
+    double desconto = valorCompra * 13 / 100;
+    double valorFinal = valorCompra - desconto;
+
+    Console.WriteLine($"Com o desconto de 13%, seu produto custará apenas: {valorFinal:C}!");
+}

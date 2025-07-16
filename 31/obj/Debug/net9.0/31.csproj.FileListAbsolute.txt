@@ -1,0 +1,15 @@
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\31.AssemblyInfoInputs.cache
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\31.AssemblyInfo.cs
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\31.csproj.CoreCompileInputs.cache
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\31.sourcelink.json
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\bin\Debug\net9.0\31.exe
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\bin\Debug\net9.0\31.deps.json
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\bin\Debug\net9.0\31.runtimeconfig.json
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\bin\Debug\net9.0\31.dll
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\bin\Debug\net9.0\31.pdb
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\31.dll
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\refint\31.dll
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\31.pdb
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\31.genruntimeconfig.cache
+C:\Users\Superman\Documents\Lois Dev\Estudante\Exercicios\31\obj\Debug\net9.0\ref\31.dll

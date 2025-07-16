@@ -1,4 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// 5) Faça um programa que leia as duas notas de um aluno em uma matéria e mostre 
+//na tela a sua média na disciplina.
+//Ex: 
+//Nota 1: 4.5
+//Nota 2: 8.5
+// média entre 4.5 e 8.5 é igual a 6.5
+
 Console.WriteLine("Digite a sua primeira nota:");
 
 decimal nota1 = decimal.Parse(Console.ReadLine());

@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//35) Uma empresa de aluguel de carros precisa cobrar pelos seus serviços. O 
+﻿//35) Uma empresa de aluguel de carros precisa cobrar pelos seus serviços. O 
 //aluguel de um carro custa R$90 por dia para carro popular e R$150 por dia para 
 //carro de luxo. Além disso, o cliente paga por Km percorrido. Faça um programa
 //que leia o tipo de carro alugado (popular ou luxo), quantos dias de aluguel e 

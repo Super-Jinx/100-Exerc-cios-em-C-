@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// 20) Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou 
+// ÍMPAR.
+
 Console.WriteLine("Olá, digite um número inteiro:");
 
 int numero = int.Parse(Console.ReadLine());

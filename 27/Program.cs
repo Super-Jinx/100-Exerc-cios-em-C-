@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//27) Crie um programa que leia duas notas de um aluno e calcule a sua média, 
+﻿//27) Crie um programa que leia duas notas de um aluno e calcule a sua média, 
 //mostrando uma mensagem no final, de acordo com a média atingida:
 // - Média até 4.9: REPROVADO
 // - Média entre 5.0 e 6.9: RECUPERAÇÃO
@@ -10,21 +9,21 @@ Console.WriteLine("Olá aluno,buchudo e remelento! Digite suas duas notas desse 
 double nota1 = double.Parse(Console.ReadLine());
 double nota2 = double.Parse(Console.ReadLine());
 
-double media = (nota1+nota2)/2;
+double media = (nota1 + nota2) / 2;
 
 
 if (media <= 4.9)
 {
 
-Console.WriteLine ($"Sua média é: {media} REPROVADO");
+    Console.WriteLine($"Sua média é: {media} REPROVADO");
 }
 
-else if(media >=5.0 && media <=6.9)
+else if (media >= 5.0 && media <= 6.9)
 {
-Console.WriteLine ($"Sua média é: {media} RECUPERAÇÃO");
+    Console.WriteLine($"Sua média é: {media} RECUPERAÇÃO");
 }
 
 else if (media >= 7.0)
 {
-    Console.WriteLine ($"Sua média é: {media} APROVADO");
+    Console.WriteLine($"Sua média é: {media} APROVADO");
 }

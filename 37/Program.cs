@@ -12,6 +12,7 @@
 //- mais de 30 anos de empresa: +25%
 
 Console.WriteLine("Olá querido funcionário, insira qual o seu salário, quantos anos você tem de empresa e qual o seu gênero:");
+
 double salarioInicial = double.Parse(Console.ReadLine());
 int anosEmpresa = int.Parse(Console.ReadLine());
 string genero = Console.ReadLine();

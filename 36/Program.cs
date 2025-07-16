@@ -15,23 +15,23 @@ int horas = int.Parse(Console.ReadLine());
 double ponto = 0.05;
 
 
-if (horas <=10)
+if (horas <= 10)
 {
-    int totalHoras = horas*2;
-    double totalGeral = totalHoras*ponto;
+    int totalHoras = horas * 2;
+    double totalGeral = totalHoras * ponto;
     Console.WriteLine($"Parabéns, você ganhou {totalHoras} pontos e {totalGeral:C}!");
 }
 
-if (horas >10 && horas<=20)
+if (horas > 10 && horas <= 20)
 {
-    int totalHoras = horas*5;
-    double totalGeral = totalHoras*ponto;
+    int totalHoras = horas * 5;
+    double totalGeral = totalHoras * ponto;
     Console.WriteLine($"Parabéns, você ganhou {totalHoras} pontos e {totalGeral:C}!");
 }
 
-if (horas >20)
+if (horas > 20)
 {
-    int totalHoras = horas*10;
-    double totalGeral = totalHoras*ponto;
+    int totalHoras = horas * 10;
+    double totalGeral = totalHoras * ponto;
     Console.WriteLine($"Parabéns, você ganhou {totalHoras} pontos e {totalGeral:C}!");
 }

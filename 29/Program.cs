@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//29) Desenvolva um programa que leia o nome de um funcionário, seu salário, 
+﻿//29) Desenvolva um programa que leia o nome de um funcionário, seu salário, 
 //quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de 
 //acordo com a tabela a seguir:
 //- Até 3 anos de empresa: aumento de 3%
@@ -26,14 +25,14 @@ if (anos <= 3)
     Console.WriteLine($"{nome}, seu novo salário é: {salarioFinal:C}");
 }
 
-else if (anos > 3 && anos < 10 )
+else if (anos > 3 && anos < 10)
 {
     double salarioFinal = salario + (0.125 * salario);
 
     Console.WriteLine($"{nome}, seu novo salário é: {salarioFinal:C}");
 }
 
-else if (anos >= 10 )
+else if (anos >= 10)
 {
     double salarioFinal = salario + (0.2 * salario);
 

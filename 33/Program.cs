@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 //33) Escreva um programa para aprovar ou não o empréstimo bancário para a compra 
 //de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e 
 //em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que 
@@ -13,21 +13,21 @@ Console.WriteLine("Qual é o seu salário e em quantos anos deseja pagar o finan
 double salario = double.Parse(Console.ReadLine());
 
 double anos = double.Parse(Console.ReadLine());
-double anosMeses = anos*12;
+double anosMeses = anos * 12;
 
-double parcela = valorCasa/anosMeses;
+double parcela = valorCasa / anosMeses;
 
 double descontoLimite = salario - (0.3 * salario);
 double parcelaLimite = salario - descontoLimite;
 
 
-if(parcela <= parcelaLimite)
+if (parcela <= parcelaLimite)
 
 {
-   Console.WriteLine($"Seu crédito foi aprovado! A sua parcela terá o valor de {parcela:C}");
+    Console.WriteLine($"Seu crédito foi aprovado! A sua parcela terá o valor de {parcela:C}");
 }
 
-else 
+else
 {
     Console.WriteLine("Crédito não aprovado!");
 }

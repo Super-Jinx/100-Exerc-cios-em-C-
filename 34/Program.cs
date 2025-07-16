@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//34) O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no 
+﻿//34) O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no 
 //peso de uma pessoa. De acordo com o valor do IMC, podemos classificar o 
 //indivíduo dentro de certas faixas.
 // - abaixo de 18.5: Abaixo do peso
@@ -14,7 +13,7 @@ Console.WriteLine("Vamos medir seu IMC. Digite seu peso e sua altura.");
 
 double peso = double.Parse(Console.ReadLine());
 double altura = double.Parse(Console.ReadLine());
-double imc = peso/(altura*altura);
+double imc = peso / (altura * altura);
 
 if (imc < 18.5)
 {

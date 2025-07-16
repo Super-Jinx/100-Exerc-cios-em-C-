@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// 21) Faça um algoritmo que leia um determinado ano e mostre se ele é ou não 
+// BISSEXTO.
 
 Console.WriteLine("Olá, qual ano você deseja verificar?");
 
